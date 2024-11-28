@@ -26,7 +26,7 @@
       - 💬 Preguntame sobre Desarrollo web, JavaScript, CSS, Bootstrap, Vue.Js, etc.
       
       - 📫 Puedes contactarme a través de los siguientes canales:
-           mi correo: nrivera2221@gmail.com 
+           mi correo: n.rivera2221@gmail.com 
            mi discord: @mush0624.
            mi linkedin: https://www.linkedin.com/in/noemy-rivera-madrid-08086233/
       
