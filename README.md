@@ -27,7 +27,7 @@
       
       - 📫 Puedes contactarme a través de los siguientes canales:
            mi correo: nrivera2221@gmail.com 
-           mi discord @mush0624.
+           mi discord: @mush0624.
            mi linkedin: https://www.linkedin.com/in/noemy-rivera-madrid-08086233/
       
       - ⚡ "Defiendo que el usuario disfrute explorando nuevas herramientas y
