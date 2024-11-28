@@ -8,11 +8,7 @@
       - 🎓 Soy Gerente de proyectos, Especialista en Servicio al Cliente, 
       Diseñadora UX, Programadora Front-End, Asistente Técnica Administrativa/Contable/Logistica/RRHH,
       Emprendedora. 
-      
-      - 🔭 Actualmente trabajo en un proyecto propio bajo la Marca Mush.CL que
-      se dedica a la programación web, Marketing Digital, publicidad, ventas,
-      servicio al cliente, Ux Desing y habilidades blandas.
-      
+    
       - 🌱 Actualmente estoy aprendiendo habilidades de programación Full Stack
       , especialmente todas las funcionalidades de JavaScript y Vue.Js, Google Analytics, 
       Ingeniería en Prompt I+D. Marketing Digital. Inglés y Chino Mandarín.
