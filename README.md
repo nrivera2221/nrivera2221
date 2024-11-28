@@ -16,7 +16,7 @@
       - 👯 Encantadamente estoy dispuesta a colaborar con empresas innovadoras que
       busquen ir hacia el otro nivel en la tecnología y el mercado digital.
       
-      - 🤔 Estoy abierta a las oportunidades de crecimiento, experiencia y colaboración. 
+      - 🙆‍♀️ Estoy abierta a las oportunidades de crecimiento, experiencia y colaboración. 
       Especialmente en Proyectos Front-End, aplicaciones web innovadoras y vanguardistas.
       
       - 💬 Preguntame sobre Desarrollo web, JavaScript, CSS, Bootstrap, Vue.Js, etc.
