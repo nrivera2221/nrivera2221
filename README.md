@@ -2,7 +2,9 @@
 
 
 ¡Yo soy Noemy y es un gusto conocerte!
+
   --> Aquí puedes descubrir un poco sobre mí:
+  
       - 🎓 Soy Gerente de proyectos, Especialista en Servicio al Cliente, 
       Diseñadora UX, Programadora Front-End, Asistente Técnica Administrativa/Contable/Logistica/RRHH,
       Emprendedora. 
