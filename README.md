@@ -10,7 +10,7 @@
       Emprendedora. 
     
       - 🌱 Actualmente estoy aprendiendo habilidades de programación Full Stack
-      , especialmente todas las funcionalidades de JavaScript y Vue.Js, Google Analytics, 
+      , especialmente todas las funcionalidades de JavaScript y Vue.Js, NextJs, NodeJs, React, Typescript,  Google Analytics, 
       Ingeniería en Prompt I+D. Marketing Digital. Inglés y Chino Mandarín.
       
       - 👯 Encantadamente estoy dispuesta a colaborar con empresas innovadoras que
